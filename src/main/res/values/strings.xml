@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Convocard</string>
+    <string name="congrats">Congradulation on your graduation, </string>
+    <string name="sender">From, </string>
+    <string name="username">Your Name</string>
+    <string name="graduanname">Graduan Name</string>
+</resources>

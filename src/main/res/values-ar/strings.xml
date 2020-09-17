@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convocard</string>
+    <string name="congrats">مبارك لك التخرج، </string>
+    <string name="sender">من </string>
+    <string name="username">اسم المستخدم</string>
+    <string name="graduanname">اسم الخريج</string>
+</resources>
